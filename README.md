@@ -12,7 +12,7 @@
 双色球投注区分为红球号码区和蓝球号码区，红球号码范围为01～33，蓝球号码范围为01～16。双色球每期从33个红球中开出6个号码，从16个蓝球中开出1个号码作为中奖号码，双色球玩法即是竞猜开奖号码的6个红球号码和1个蓝球号码，顺序不限
 三、设奖及中奖
 
-
+![https://github.com/UncleLLD/Lottery-research/blob/master/sample/rule2.png?raw=true](https://github.com/UncleLLD/Lottery-research/blob/master/sample/rule2.png?raw=true)
 注：
 1、高等奖奖金＝奖金总额－固定奖奖金。
 2、当奖池奖金超过1亿元(含)时，下期一等奖奖金总额包括两部分，一部分为高等奖奖金的55%与奖池奖金之和，单注奖金按注均分，封顶500万元；另一部分为高等奖奖金的20%，单注奖金按注均分，封顶500万元。
